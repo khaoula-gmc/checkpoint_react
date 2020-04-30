@@ -1,0 +1,28 @@
+body{
+	font-size: 12px;
+	font-family: Arial;
+}
+
+h1
+{
+    color:blue;
+    text-align:center;
+
+}
+h2
+{
+    
+    margin: 40px 40px;
+}
+
+#formulaire
+{
+    align-content: center;
+    height: 50%;
+}
+/* affiche les zones en couleurs */
+#content > div {
+      background-color: #A9BCF5;
+      box-shadow: inset 2px -2px 2px rgb(48, 6, 116), inset -2px 2px 2px rgb(15, 4, 65);
+      height:50%px;
+}
